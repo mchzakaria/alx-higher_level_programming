@@ -1,7 +1,7 @@
-[200~#!/usr/bin/python3
-        """A module for square"""
+#!/usr/bin/python3
+"""Square class defination"""
 
 
-        class Square:
-            """Represent a square."""
-                pass
+class Square:
+    """Square class body"""
+    pass
